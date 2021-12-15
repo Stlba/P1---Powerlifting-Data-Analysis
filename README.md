@@ -1,39 +1,31 @@
 # P1 AAU 
-### **Powerlifting Data Analysis**
+## **Powerlifting Data Analysis**
 Early-concepts of dataexploration, wrangling & analysis of OpenPowerlifting's Dataset. 
-1. Better estimation than Wilks and how bias is Wilks?
-2. Which important body traits correlate with total strength?
-3. Is there a significant difference in strength among top level-lifters in drug-tested and non-drug-tested federations?
-4. Linear regression with a polynomial basis to predect a lifter's bodyweight achieving a RMSE of 0.0202.
 
-### What I learned 
-* Matplotlib
-* Seaborn
-* Sciby
-* Pandas
-* Numby
-* Scikit-Learn
-* Fitting Regression Models in Practice
-* Model Fitting Workflow in Python
 
 ### Includes
-- Age Distribution 
-- Meets pr. Country
-- Most popular / least popular contries
-- Which country has the strongest / weakest lifters?
-- Powerliffting Popularity over the years
-- What is the median age, weight, strength categorized by gender?
-- What is the media value of squat, benchpress and deadlift sorted after each weightclass?
-- What's the highest and lowest Wilks Score?
-- Using dataset to categorize each liffter into an estimation of skillset [Beginner, Novice, Intermediate, Advanced, Elite]
-- Estimation of athlete potential by measuring the following mechanical biofactors:
-1. Age
-2. Gender
-3. Weight
-4. Height
-5. Muscle mass
-6. Training age
-7. Muscle architecture
-8. Body segment lengths
-9. Other stuff
-- How big of an influence is gender in Powerlifting? Bias?
+- Wilks Radarchart showing bias.
+- Correlation Heatmap w. variables.
+- Difference in strength-level between tested and non-tested federations.
+- Using linear regression and weight of variables of maximum lift in squat, benchpress and deadlift to predict the athletes supposed weight. 
+- Using Logistic Regression of maximum lift in squat, benchpress and deadlift to design model for predicting gender 
+- Overview of weighted variables & relevant plot to every variable:
+1. Age Distribution 
+2. Meets pr. Country
+3. Most popular / least popular contries
+4. Which country has the strongest / weakest lifters?
+5. Powerliffting Popularity over the years
+6. What is the median age, weight, strength categorized by gender?
+7. What is the media value of squat, benchpress and deadlift sorted after each weightclass?
+8. What's the highest and lowest Wilks Score?
+9. Using dataset to categorize each liffter into an estimation of skillset [Beginner, Novice, Intermediate, Advanced, Elite]
+10. Estimation of athlete potential by measuring the following mechanical biofactors:
+- Age
+- Gender
+- Weight
+- Height
+- Muscle mass
+- Training age
+- Muscle architecture
+- Body segment lengths
+
