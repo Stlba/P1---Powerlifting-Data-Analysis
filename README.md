@@ -20,13 +20,13 @@ Early-concepts of dataexploration, wrangling & analysis of OpenPowerlifting's Da
 [Plot?] What's the highest and lowest Wilks Score?
 [Regression] Using dataset to categorize each liffter into an estimation of skillset [Beginner, Novice, Intermediate, Advanced, Elite]
 [Regression] Estimation of athlete potential by measuring the following mechanical biofactors:
-###### - Age
-###### - Gender
-###### - Weight
-###### - Height
-###### - Muscle mass
-###### - Training age
-###### - Muscle architecture
-###### - Body segment lengths
+- Age
+- Gender
+- Weight
+- Height
+- Muscle mass
+- Training age
+- Muscle architecture
+- Body segment lengths
 ---
 
