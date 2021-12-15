@@ -17,7 +17,7 @@ Early-concepts of dataexploration, wrangling & analysis of OpenPowerlifting's Da
 * Model Fitting Workflow in Python
 
 ### Includes
-- Age Distrubution 
+- Age Distribution 
 - Meets pr. Country
 - Most popular / least popular contries
 - Which country has the strongest / weakest lifters?
