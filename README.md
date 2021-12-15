@@ -4,12 +4,13 @@ Early-concepts of dataexploration, wrangling & analysis of OpenPowerlifting's Da
 
 
 ### Includes
-- Wilks Radarchart showing bias.
-- Correlation Heatmap w. variables for visualising of linear prediction.
-- Difference in strength-level between tested and non-tested federations.
-- Using linear regression and weight of variables of maximum lift in squat, benchpress and deadlift to predict the athletes supposed weight. 
-- Using Logistic Regression of maximum lift in squat, benchpress and deadlift to design model for predicting gender 
-- Overview of weighted variables & relevant plot to every variable:
+#### Wilks Radarchart showing bias.
+#### Correlation Heatmap w. variables for visualising of linear prediction.
+#### Difference in strength-level between tested and non-tested federations.
+#### Using linear regression and weight of variables of maximum lift in squat, benchpress and deadlift to predict the athletes supposed weight. 
+#### Using Logistic Regression of maximum lift in squat, benchpress and deadlift to design model for predicting gender 
+#### Overview of weighted variables & relevant plot to every variable:
+---
 1. Age Distribution 
 2. Meets pr. Country
 3. Most popular / least popular contries
@@ -28,4 +29,5 @@ Early-concepts of dataexploration, wrangling & analysis of OpenPowerlifting's Da
 - Training age
 - Muscle architecture
 - Body segment lengths
+---
 
