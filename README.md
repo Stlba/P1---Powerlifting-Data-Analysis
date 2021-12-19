@@ -48,14 +48,26 @@ Mangler tekst??
 
 › Which country has the strongest / weakest lifters?
 
-› Powerlifting Popularity over the years
+› Powerlifting Popularity over the years / Is the participation increasing over the years?
+
+› How is age impacting different types of lifts such as bench, deadlift and squat?
+
+› How is gender impacting different types of lifts such as bench, deadlift and squat?
+
+› How is the gender split in different meets? Is it changing over the years?
 
 › What is the median age, weight, strength categorized by gender?
 
 › What is the media value of squat, benchpress and deadlift sorted after each weightclass?
+
+› Is the average weight lifted increasing over the years?
 
 › What's the highest and lowest Wilks Score?
 
 › Using dataset to categorize each liffter into an estimation of skillset [Beginner, Novice, Intermediate, Advanced, Elite]
 
 › Estimation of athlete potential by measuring the following mechanical biofactors: [Age, Gender, Weight, Height, Muscle Mass, Training Age, Muscle Architecture, Body Segment Lengths]
+
+
+
+
