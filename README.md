@@ -16,17 +16,25 @@ Therefore the goal should be to check if there's any surviving bias in the 2020-
 
 #### Correlation Heatmap w. variables for visualising of linear prediction
 
+Mangler tekst??
+
 ---
 
 #### Difference in strength-level between tested and non-tested federations
+
+Mangler tekst??
 
 ---
 
 #### Using linear regression and weight of variables of maximum lift in squat, benchpress and deadlift to predict the athletes supposed weight
 
+Mangler tekst??
+
 ---
 
 #### Using Logistic Regression of maximum lift in squat, benchpress and deadlift to design model for predicting gender
+
+Mangler tekst??
 
 ---
 
